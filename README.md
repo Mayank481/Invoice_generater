@@ -48,7 +48,7 @@ API Documentation- There are three types of APi's. these are Users api's and pro
 
 Step to use Api:- In the APi's we are using the Authentication using JWT, So first you can register yourself using /register API and the login using /login API and take the Token from it and pass in an authorization after that you can perform the others api to access the users data.  
 
-# NOTE :- Please do refer to Postman collection for particular API's Payloads. Otherwise it will through an error
+# NOTE :- Please do refer to Postman collection for particular API's Payloads.
 
 ## API ENDPOINTS
 ## USER
