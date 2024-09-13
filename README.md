@@ -18,6 +18,7 @@ This is a full-stack web application built with Node.js, Express.js, and MongoDB
 1. To run the application you need to have Node JS installed.
 2. MongoDB Atlas Account
 3. GIT Bash
+4. Docker Desktop (windows)
 
 ### Quick Start
 A simple example to get started with the project.
@@ -27,12 +28,16 @@ A simple example to get started with the project.
 npm i
 ``` 
 3. Create a .ENV (Inside ENV)
-`````
+````` 
 PORT = 5000
 DB_URI = "Provide mongoDB(Atlas) URI"
 JWT_SECRET = "Random String(your Email)"
 `````
-4. npm start
+4. Open docker desktop and start docker engine
+```
+docker-compose up
+```
+5. npm start
 
 ### Code Structure
 
