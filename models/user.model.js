@@ -6,4 +6,5 @@ const UserSchema = new mongooes.Schema({
   email: { type: String, required: true, unique: true },
   password: { type: String, required: true },
 });
+
 module.exports = mongooes.model("User", UserSchema);
