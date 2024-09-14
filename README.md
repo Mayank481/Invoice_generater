@@ -92,7 +92,7 @@ https://documenter.getpostman.com/view/21334201/2sAXqnfQhg
 
 I am using Render cloud for deploy my application. 
 
-1. This is my deployment link can use this link for the testing deployment
+1. This is my deployment link you can use this link for the testing deployment.
 
 ```
 https://invoice-generater.onrender.com
