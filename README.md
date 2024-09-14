@@ -82,6 +82,18 @@ Step to use Api:- In the APi's we are using the Authentication using JWT, So fir
 
 ## POSTMAN COLLECTION
 
+1. This is postman collection for API's payloads.
+
 ```
 https://documenter.getpostman.com/view/21334201/2sAXqnfQhg
+```
+
+## Project Deployment
+
+I am using Render cloud for deploy my application. 
+
+1. This is my deployment link can use this link for the testing deployment
+
+```
+https://invoice-generater.onrender.com
 ```
