@@ -4,7 +4,7 @@
 
 <!-- A brief overview of what the project does, its purpose, and its main features. -->
 
-This is a full-stack web application built with Node.js, Express.js, and MongoDB. It allows users to generate and download invoices in both PDF formats. The application leverages Puppeteer for generating the invoices and utilizes JWT for user authentication.
+This is a full-stack web application built with Node.js, Express.js, and MongoDB. It allows users to generate and download invoices in PDF formats. The application leverages Puppeteer for generating the invoices and utilizes JWT for user authentication.
 
 ## Features
 
@@ -51,7 +51,11 @@ JWT_SECRET = "Random String(your Email)"
 docker-compose up
 ```
 
-5. npm start
+5. without docket you can run code using
+
+```
+npm start
+```
 
 ### Code Structure
 
