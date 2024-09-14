@@ -22,7 +22,7 @@ app.use("/invoices", express.static("invoices"));
 
 app.get("/", (req, res) => {
   res.send({
-    message: "Welcome to the Product Invoice",
+    message: "Welcome to the Product Invoice Generate :)",
   });
 });
 
